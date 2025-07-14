@@ -10,5 +10,6 @@ Terraform validate
 
 terraform plan -var-file="terraform.tfvars" -out="tfplan.out"
 
-
+AWS_ACCESS_KEY
+AWS_SECRET_ACCESS_KEY
 ```
